@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pokaljainam24&label=Profile%20views&color=0e75b6&style=flat" alt="pokaljainam24" /> </p>
 
-- 🔭 I’m currently working on **Full Stake Developer**
+- 🔭 I’m currently working on **Full Stake Development**
 
-- 🌱 I’m currently learning **Full Stake Developer**
+- 🌱 I’m currently learning **Full Stake Development**
 
 - 👯 I’m looking to collaborate on **Shivendra sir**
 
