@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pokaljainam24&label=Profile%20views&color=0e75b6&style=flat" alt="pokaljainam24" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Developer.<br>👯 I’m looking to collaborate on Shivendra Sir.<br>🤝 I’m looking for help with Shivendra Sir.<br>🌱 I’m currently learning Full-Stack Developer.<br>📫 How to reach me pokaljainam@gmail.com
+🔭 I’m currently working on <b>Full-Stack Developer.</b><br>👯 I’m looking to collaborate on Shivendra Sir.<br>🤝 I’m looking for help with Shivendra Sir.<br>🌱 I’m currently learning Full-Stack Developer.<br>📫 How to reach me pokaljainam@gmail.com
 
 
 # 💻 Tech Stack:
