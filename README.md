@@ -58,9 +58,7 @@
 ### Thanks for Visiting my GitHub Profile!
 
 ---
-<p align="center">
-<img src="https://github.com/pokaljainam24/pokaljainam24/blob/output/github-contribution-grid-snake.svg">
-</p>
+._.  ._.  ._.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=pokaljainam24&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
