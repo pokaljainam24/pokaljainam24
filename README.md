@@ -47,9 +47,7 @@
 
 ## Typewriter
 
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/scale.gif?raw=true" align = "right" height = "300px">
-
-
+<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/typewriter.gif?raw=true" align = "right" height = "300px">
 
 ```dart
 return SizedBox(
