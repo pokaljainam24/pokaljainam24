@@ -1,3 +1,7 @@
+
+![greetings](https://user-images.githubusercontent.com/110078755/193393781-9c3579ca-1d5b-43b6-ae12-4d8fc018a1e7.gif)
+
+
 <h1 align="center">Hello Guys...!, I'm Jainam Pokal</h1>
 <h3 align="center">A passionate full stake development from India</h3>
 
