@@ -45,6 +45,32 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
+## Typewriter
+
+<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/typewriter.gif?raw=true" align = "right" height = "300px">
+
+```dart
+return SizedBox(
+  width: 250.0,
+  child: DefaultTextStyle(
+    style: const TextStyle(
+      fontSize: 30.0,
+      fontFamily: 'Agne',
+    ),
+    child: AnimatedTextKit(
+      animatedTexts: [
+        TypewriterAnimatedText('Discipline is the best tool'),
+        TypewriterAnimatedText('Design first, then code'),
+        TypewriterAnimatedText('Do not patch bugs out, rewrite them'),
+        TypewriterAnimatedText('Do not test bugs out, design them out'),
+      ],
+      onTap: () {
+        print("Tap Event");
+      },
+    ),
+  ),
+);
+```
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pokaljainam24&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pokaljainam24&theme=react&hide_border=false)<br/>
