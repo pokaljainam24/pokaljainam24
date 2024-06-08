@@ -47,7 +47,27 @@
 
 ## Typewriter
 
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/typewriter.gif?raw=true" align = "right" height = "300px">
+```dart
+return SizedBox(
+  width: 250.0,
+  child: DefaultTextStyle(
+    style: const TextStyle(
+      fontSize: 70.0,
+      fontFamily: 'Canterbury',
+    ),
+    child: AnimatedTextKit(
+      animatedTexts: [
+        ScaleAnimatedText('Think'),
+        ScaleAnimatedText('Build'),
+        ScaleAnimatedText('Ship'),
+      ],
+      onTap: () {
+        print("Tap Event");
+      },
+    ),
+  ),
+);
+```
 
 ```dart
 return SizedBox(
