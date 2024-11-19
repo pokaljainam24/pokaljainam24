@@ -27,7 +27,7 @@
 - **[JP Travels](https://traveling-website-2224.netlify.app)** – Travel planning, minus the jet lag! ✈️
 
 ### **JavaScript Fun** 
-- **[Tabulo Gen](https://mellow-nasturtium-d15f94.netlify.app)** – Generate tables like a pro! 📊
+- **[Tabulo Gen](https://table-generater-d15f94.netlify.app)** – Generate tables like a pro! 📊
 - **[Number Forecast](https://number-forcast.netlify.app)** – Predicting numbers like a fortune teller! 🔮
 - **[Task Master](https://to-do-list-3a3f0c.netlify.app)** – Manage tasks like the boss you are! 👑
 - **[TipsyBilly](https://bill-calculation-c2d37f.netlify.app)** – Calculate tips effortlessly with style. 💸
