@@ -13,11 +13,11 @@
 ## **Projects:**
 
 ### **HTML-CSS Masterpieces** 
-- **[Geek4Geeks](https://geek4geeks.netlify.app)** – A site that makes you feel like a coding genius! 🧠
-- **[Shubham's Portfolio](https://shubham-parekh01.netlify.app)** – Yes, this is my initial work, and yes, I’m proud of it! 🌟
+- **[Cyber Crime](https://darling-rolypoly-30dbd0.netlify.app)** – A site that makes you feel like a coding genius! 🧠
+- **[Jainam's Portfolio](https://my-portfolio-ab3dfe.netlify.app)** – Yes, this is my initial work, and yes, I’m proud of it! 🌟
 
 ### **jQuery Magic** 
-- **[Admin Panel](https://admin-panel04.netlify.app)** – Because managing things should look snazzy! 💼
+- **[Admin Panel](https://my-admin-e5fad8panel.netlify.app)** – Because managing things should look snazzy! 💼
 
 ### **Bootstrap Beauty** 
 - **[Coursera Clone](https://coursera-clone04.netlify.app)** – Learn without the fees (kinda). 💰
