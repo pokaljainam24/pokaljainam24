@@ -20,18 +20,17 @@
 - **[Admin Panel](https://my-admin-e5fad8panel.netlify.app)** – Because managing things should look snazzy! 💼
 
 ### **Bootstrap Beauty** 
-- **[Coursera Clone](https://coursera-clone04.netlify.app)** – Learn without the fees (kinda). 💰
-- **[ShipMe](https://shipme04.netlify.app)** – Your online stuff shipping buddy. 📦
-- **[Portfolio 2.0](https://shubham-parekh02.netlify.app)** – An upgrade, because I believe in evolution! 🔄
-- **[Tindog](https://tindog04.netlify.app)** – Swipe right for your dear dog's new best friend! 🐶❤️
-- **[Aurora Travels](https://aurora-travels.netlify.app)** – Travel planning, minus the jet lag! ✈️
+- **[Coursera Clone](https://fancy-eclair-a74f09.netlify.app)** – Learn without the fees (kinda). 💰
+- **[Apple Clone](https://fancy-eclair-a74f09.netlify.app)** – Your Apple Product shopping buddy. 📦
+- **[Portfolio 2.0](https://my-responsive-portfolio-2cf058.netlify.app)** – An upgrade, because I believe in evolution! 🔄
+- **[Tindog](https://tindog-ac800b.netlify.app)** – Swipe right for your dear dog's new best friend! 🐶❤️
+- **[JP Travels](https://traveling-website-2224.netlify.app)** – Travel planning, minus the jet lag! ✈️
 
 ### **JavaScript Fun** 
-- **[Tabulo Gen](https://tabulo-gen.netlify.app)** – Generate tables like a pro! 📊
-- **[Dice Maniac](https://dice-maniac.netlify.app)** – Roll the dice and embrace your inner risk-taker! 🎲
+- **[Tabulo Gen](https://mellow-nasturtium-d15f94.netlify.app)** – Generate tables like a pro! 📊
 - **[Number Forecast](https://number-forcast.netlify.app)** – Predicting numbers like a fortune teller! 🔮
-- **[Task Master](https://task-master04.netlify.app)** – Manage tasks like the boss you are! 👑
-- **[TipsyBilly](https://tipsy-billy.netlify.app)** – Calculate tips effortlessly with style. 💸
+- **[Task Master](https://to-do-list-3a3f0c.netlify.app)** – Manage tasks like the boss you are! 👑
+- **[TipsyBilly](https://bill-calculation-c2d37f.netlify.app)** – Calculate tips effortlessly with style. 💸
   
 
 ## 🌐 Socials:
