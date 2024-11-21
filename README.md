@@ -31,6 +31,7 @@
 - **[Number Forecast](https://number-forcast.netlify.app)** – Predicting numbers like a fortune teller! 🔮
 - **[Task Master](https://to-do-list-3a3f0c.netlify.app)** – Manage tasks like the boss you are! 👑
 - **[TipsyBilly](https://bill-calculation-c2d37f.netlify.app)** – Calculate tips effortlessly with style. 💸
+- **[Sony Tv](https://sony-tv-29b832.netlify.app)** – CLICK THE BUTTON AND SHOW THE MAGIC INSIDE THE SONY TV 😎
   
 
 ## 🌐 Socials:
