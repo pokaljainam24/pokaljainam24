@@ -32,6 +32,7 @@
 - **[Task Master](https://to-do-list-3a3f0c.netlify.app)** – Manage tasks like the boss you are! 👑
 - **[TipsyBilly](https://bill-calculation-c2d37f.netlify.app)** – Calculate tips effortlessly with style. 💸
 - **[Sony Tv](https://sony-tv-d64d8a.netlify.app)** – CLICK THE BUTTON AND SHOW THE MAGIC INSIDE THE SONY TV 😎
+- **[Quize Game](https://quizy-game-2d2e1d.netlify.app)** – "Click the button and unlock the magic of the quiz game! 🎮✨"
   
 
 ## 🌐 Socials:
