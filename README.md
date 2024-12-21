@@ -33,6 +33,7 @@
 - **[TipsyBilly](https://bill-calculation-c2d37f.netlify.app)** – Calculate tips effortlessly with style. 💸
 - **[Sony Tv](https://sony-tv-d64d8a.netlify.app)** – CLICK THE BUTTON AND SHOW THE MAGIC INSIDE THE SONY TV 😎
 - **[Quiz Game](https://quizy-game-2d2e1d.netlify.app)** – "Click the button and unlock the magic of the quiz game! 🎮✨"
+- **[Cosmetic Products Web-Page](https://cosmetic-products-658896.netlify.app)** – "Shop now to discover the best of Cosmetic Products! 🛍️✨🛒"
   
 
 ## 🌐 Socials:
