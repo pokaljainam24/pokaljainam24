@@ -20,7 +20,7 @@
 - **[Admin Panel](https://my-admin-e5fad8panel.netlify.app)** – Because managing things should look snazzy! 💼
 
 ### **Bootstrap Beauty** 
-- **[Coursera Clone](https://fancy-eclair-a74f09.netlify.app)** – Learn without the fees (kinda). 💰
+- **[Coursera Clone](https://coursera-clone-9ef4a7.netlify.app)** – Learn without the fees (kinda). 💰
 - **[Apple Clone](https://fancy-eclair-a74f09.netlify.app)** – Your Apple Product shopping buddy. 📦
 - **[Portfolio 2.0](https://my-responsive-portfolio-2cf058.netlify.app)** – An upgrade, because I believe in evolution! 🔄
 - **[Tindog](https://tindog-ac800b.netlify.app)** – Swipe right for your dear dog's new best friend! 🐶❤️
